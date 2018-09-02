@@ -4,7 +4,8 @@
     "description": "Portafolio Page",
     "main": "index.js",
     "dependencies": {
-        "react": "16.4.2"
+        "react": "16.4.2",
+        "react-dom": "16.4.2"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
